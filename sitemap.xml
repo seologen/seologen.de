@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.seologen.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://www.seologen.de/"/>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://www.seologen.ch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.seologen.de/"/>
+    <lastmod>2026-03-24</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/seo-beratung/</loc>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://www.seologen.de/seo-beratung/"/>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://www.seologen.ch/seo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.seologen.de/seo-beratung/"/>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/ki-seo/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/sea/</loc>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://www.seologen.de/sea/"/>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://www.seologen.ch/sea/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.seologen.de/sea/"/>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/ueber-uns/</loc>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://www.seologen.de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://www.seologen.ch/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.seologen.de/ueber-uns/"/>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://www.seologen.de/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://www.seologen.ch/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.seologen.de/kontakt/"/>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/impressum/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.seologen.de/datenschutz/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.3</priority>
+  </url>
+</urlset>
