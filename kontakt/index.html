@@ -321,10 +321,9 @@ jQuery(window).on('load',function(){
         </div>
 
 		</div></section><section id="section-8-74" class=" ct-section ct-section-with-shape-divider" ><div  class="ct-section-inner-wrap"><div id="new_columns-9-74" class="ct-new-columns" ><div id="div_block-10-74" class="ct-div-block" ><div id="shortcode-12-74" class="ct-shortcode" ><div id="piotnetforms" class="piotnetforms">
-<form action="https://formsubmit.co/info@seologen.de" method="POST">
+<form id="contactForm" action="https://formsubmit.co/ajax/info@seologen.de" method="POST">
 		<input type="hidden" name="_subject" value="Neue Kontaktanfrage von seologen.de">
 		<input type="hidden" name="_captcha" value="false">
-		<input type="hidden" name="_next" value="https://seologen.de/kontakt/?success=1">
 		<input type="hidden" name="_template" value="table">
 		<input type="text" name="_honey" style="display:none">
 
@@ -820,17 +819,24 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 })();
 </script>
 <!-- /Cookie Consent Banner -->
-<!-- Success message after form submission -->
+<!-- AJAX form submission -->
 <script>
-(function(){
-  if(window.location.search.indexOf('success=1')>-1){
-    var msg=document.createElement('div');
-    msg.style.cssText='position:fixed;top:0;left:0;width:100%;background:#1a3c34;color:#fff;padding:16px;text-align:center;font-family:Raleway,sans-serif;font-size:16px;font-weight:600;z-index:999999;box-shadow:0 2px 8px rgba(0,0,0,.2);';
-    msg.innerHTML='Deine Nachricht wurde erfolgreich versendet! Wir melden uns in Kürze. <span style="cursor:pointer;margin-left:16px;opacity:0.7;" onclick="this.parentNode.remove()">✕</span>';
-    document.body.prepend(msg);
-    window.history.replaceState(null,'',window.location.pathname);
-  }
-})();
+document.getElementById('contactForm').addEventListener('submit',function(e){
+  e.preventDefault();
+  var form=this,btn=form.querySelector('button[type="submit"]'),origText=btn.querySelector('.piotnetforms-button-text').textContent;
+  btn.querySelector('.piotnetforms-button-text').textContent='Wird gesendet...';
+  btn.disabled=true;
+  fetch(form.action,{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}})
+  .then(function(r){return r.json()})
+  .then(function(){
+    form.innerHTML='<div style="text-align:center;padding:40px 20px;"><p style="font-family:Raleway,sans-serif;font-size:18px;font-weight:600;color:#1a3c34;margin:0 0 8px;">Nachricht erfolgreich versendet!</p><p style="font-family:Raleway,sans-serif;font-size:14px;color:#666;">Wir melden uns in Kürze bei dir.</p></div>';
+  })
+  .catch(function(){
+    btn.querySelector('.piotnetforms-button-text').textContent=origText;
+    btn.disabled=false;
+    alert('Fehler beim Senden. Bitte versuche es erneut.');
+  });
+});
 </script>
 
 </body>
