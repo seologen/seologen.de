@@ -1,0 +1,28 @@
+# seologen.de
+
+> SEO, SEA & KI SEO Freelancer Agentur aus Nürnberg. Wir optimieren deine Website für Google, KI-Suchmaschinen und mehr.
+
+## Über uns
+seologen ist eine SEO & Online Marketing Freelancer Agentur mit über 15 Jahren Erfahrung. Wir bieten Suchmaschinenoptimierung (SEO), Suchmaschinenwerbung (SEA/Google Ads), KI SEO, Content Marketing und Local SEO.
+
+## Leistungen
+- [SEO - Suchmaschinenoptimierung](/seo/)
+- [KI SEO - KI-gestützte Suchmaschinenoptimierung](/seo/ki-seo/)
+- [Content Marketing](/seo/content-marketing/)
+- [Local SEO](/seo/local-seo/)
+- [SEO Texte](/seo/seo-texte/)
+- [Backlinks & Linkbuilding](/seo/backlinks/)
+- [SEA - Google Ads](/sea/)
+
+## Kontakt
+- Website: https://www.seologen.de
+- E-Mail: info@seologen.ch
+- Telefon: +49 (0) 151 640 90 585
+- Adresse: Dahlmannstrasse 13, 90491 Nürnberg, Deutschland
+
+## Blog
+- [Bilder für SEO optimieren](/blog/bilder-fuer-seo-optimieren/)
+- [Content Marketing für KMUs](/blog/content-marketing-kmus/)
+- [H1, H2, H3 Überschriften](/blog/h1-h2-h3-ueberschriften/)
+- [Texte für SEO optimieren](/blog/texte-fuer-seo-optimieren-eine-5-punkte-anleitung/)
+- [User Experience und SEO](/blog/user-experience-und-seo/)

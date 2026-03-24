@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /wp-includes/
+
+# Personen-Bilder nicht indexieren
+Disallow: /wp-content/uploads/2021/11/sarah-final-seologen.png
+Disallow: /wp-content/uploads/2021/11/andy-webp.webp
+Disallow: /wp-content/uploads/2021/11/andy-seologen.png
+Disallow: /wp-content/uploads/2021/11/sandra-webp.webp
+Disallow: /wp-content/uploads/2021/11/patrick-webp.webp
+
+# KI-Crawler explizit erlauben
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# KI-Crawler ohne Mehrwert blocken
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://www.seologen.de/sitemap.xml
