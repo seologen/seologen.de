@@ -139,7 +139,7 @@ jQuery(window).on('load',function(){
 @media (max-width: 768px) {
   .icon-blurb { width: 100%; margin-right: 0; margin-bottom: 20px; }
 }
-.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row { height: 0 !important; min-height: 0 !important; overflow: hidden !important; pointer-events: none !important; padding: 0 !important; }
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row { position: relative !important; z-index: 100 !important; }
 .oxy-header-wrapper .oxygen-hide-in-sticky { display: block; }
 .oxy-header-wrapper .oxygen-show-in-sticky-only { display: none; }
 .oxy-header-wrapper.oxy-sticky-header-active .oxygen-hide-in-sticky, .oxy-header-wrapper.oxy-sticky-header-active .oxygen-only-show-in-overlay { display: none !important; }
