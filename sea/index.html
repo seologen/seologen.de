@@ -139,7 +139,12 @@ jQuery(window).on('load',function(){
 @media (max-width: 768px) {
   .icon-blurb { width: 100%; margin-right: 0; margin-bottom: 20px; }
 }
-.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row { position: relative !important; z-index: 100 !important; }
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row { position: relative !important; z-index: 100 !important; pointer-events: none !important; }
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row a,
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row button,
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row svg,
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row img,
+.oxy-header-wrapper .oxygen-only-show-in-overlay.oxy-header-row .oxy-header-right { pointer-events: auto !important; }
 .oxy-header-wrapper .oxygen-hide-in-sticky { display: block; }
 .oxy-header-wrapper .oxygen-show-in-sticky-only { display: none; }
 .oxy-header-wrapper.oxy-sticky-header-active .oxygen-hide-in-sticky, .oxy-header-wrapper.oxy-sticky-header-active .oxygen-only-show-in-overlay { display: none !important; }
