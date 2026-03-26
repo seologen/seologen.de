@@ -820,8 +820,8 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 <script>
 document.getElementById('contactForm').addEventListener('submit',function(e){
   e.preventDefault();
-  var form=this,btn=form.querySelector('button[type="submit"]'),origText=btn.querySelector('.piotnetforms-button-text').textContent;
-  btn.querySelector('.piotnetforms-button-text').textContent='Wird gesendet...';
+  var form=this,btn=form.querySelector('button[type="submit"]'),txtEl=btn.querySelector('.oxel_icon_button_text'),origText=txtEl.textContent;
+  txtEl.textContent='Wird gesendet...';
   btn.disabled=true;
   fetch(form.action,{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}})
   .then(function(r){return r.json()})
@@ -829,7 +829,7 @@ document.getElementById('contactForm').addEventListener('submit',function(e){
     form.innerHTML='<div style="text-align:center;padding:40px 20px;"><p style="font-family:Raleway,sans-serif;font-size:18px;font-weight:600;color:#1a3c34;margin:0 0 8px;">Nachricht erfolgreich versendet!</p><p style="font-family:Raleway,sans-serif;font-size:14px;color:#666;">Wir melden uns in Kürze bei dir.</p></div>';
   })
   .catch(function(){
-    btn.querySelector('.piotnetforms-button-text').textContent=origText;
+    txtEl.textContent=origText;
     btn.disabled=false;
     alert('Fehler beim Senden. Bitte versuche es erneut.');
   });
