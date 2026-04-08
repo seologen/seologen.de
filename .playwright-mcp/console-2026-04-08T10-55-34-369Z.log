@@ -1,0 +1,32 @@
+[     216ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/:0
+[     378ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=4.9.1:0
+[     465ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.2.49-78:0
+[     466ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/oxygen/css/670.css?cache=1707822271&ver=6.9.4:0
+[     466ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.css?ver=6.9.4:0
+[     466ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/oxygen/css/universal.css?cache=1721210373&ver=6.9.4:0
+[     467ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/11/seologen-logo.svg:0
+[     469ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.2.49:0
+[     492ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/10/google-partner-badge.png:0
+[     494ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/oxygen/css/739.css?cache=1719263585&ver=6.9.4:0
+[     494ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-includes/js/jquery/jquery.min.js?ver=3.7.1:0
+[     497ms] ReferenceError: jQuery is not defined
+    at https://seologen.de/nicht-existierende-seite/:80:1
+[     621ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/11/seologen-sistrix-seo-analyse.png:0
+[     683ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1:0
+[     689ms] ReferenceError: jQuery is not defined
+    at https://seologen.de/nicht-existierende-seite/:200:4
+[     690ms] ReferenceError: jQuery is not defined
+    at https://seologen.de/nicht-existierende-seite/:216:9
+[     691ms] ReferenceError: jQuery is not defined
+    at https://seologen.de/nicht-existierende-seite/:1211:4
+[     692ms] ReferenceError: jQuery is not defined
+    at https://seologen.de/nicht-existierende-seite/:1252:13
+[     751ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/11/seologen-logo.svg:0
+[     843ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js:0
+[     855ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.2.49:0
+[     858ms] ReferenceError: AOS is not defined
+    at https://seologen.de/nicht-existierende-seite/:1556:5
+[    1359ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/08/cropped-favicon3-32x32.png:0
+[    1502ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/nicht-existierende-seite/wp-content/uploads/2021/08/cropped-favicon3-192x192.png:0
+[  265837ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.ch/nicht-existierende-seite/:0
+[  266475ms] [ERROR] Refused to execute script from 'https://seologen.ch/?cf_action=brb_embed&brb_collection_id=500&brb_callback=brb_1775646000319' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://seologen.ch/nicht-existierende-seite/:0

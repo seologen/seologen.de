@@ -1,0 +1,209 @@
+- generic [ref=e1]:
+  - banner:
+    - generic [ref=e3]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: https://seologen.ch/
+      - generic [ref=e7]:
+        - navigation [ref=e8]:
+          - list [ref=e10]:
+            - listitem [ref=e11] [cursor=pointer]:
+              - generic [ref=e12]: SEO
+            - listitem [ref=e13]:
+              - link "SEA" [ref=e14] [cursor=pointer]:
+                - /url: https://seologen.ch/sea/
+            - listitem [ref=e15]:
+              - link "Social Media" [ref=e16] [cursor=pointer]:
+                - /url: https://seologen.ch/social-media/
+            - listitem [ref=e17]:
+              - link "Über uns" [ref=e18] [cursor=pointer]:
+                - /url: https://seologen.ch/ueber-uns/
+        - link "Kontakt" [ref=e19] [cursor=pointer]:
+          - /url: https://seologen.ch/kontakt/
+  - generic [ref=e21]:
+    - heading "404" [level=1] [ref=e22]
+    - heading "Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen. Wir bringen dich wieder auf die richtige Spur." [level=4] [ref=e23]:
+      - text: Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen.
+      - text: Wir bringen dich wieder auf die richtige Spur.
+    - button "Zur Startseite" [ref=e24] [cursor=pointer]:
+      - generic [ref=e25]: Zur Startseite
+      - img [ref=e27]
+  - generic [ref=e30]:
+    - heading "Sicher mit uns durch den SEO Dschungel." [level=3] [ref=e31]
+    - heading "Jetzt Dschungeltour starten!" [level=3] [ref=e32]
+    - generic [ref=e33]:
+      - link "info@seologen.nl" [ref=e35] [cursor=pointer]:
+        - /url: mailto:info@seologen.nl
+      - generic [ref=e36]: "|"
+      - paragraph [ref=e38]:
+        - link "+31 (0) 614 33 97 88" [ref=e39] [cursor=pointer]:
+          - /url: tel:0031614339788
+    - generic:
+      - generic:
+        - img
+  - button "Kontakt aufnehmen" [ref=e42] [cursor=pointer]:
+    - generic [ref=e43]: Kontakt aufnehmen
+    - img [ref=e45]
+  - generic [ref=e49]:
+    - link [ref=e51] [cursor=pointer]:
+      - /url: https://seologen.ch/
+    - generic [ref=e52]:
+      - heading "SEO Leistungen" [level=4] [ref=e53]
+      - link "Suchmaschinenoptimierung" [ref=e54] [cursor=pointer]:
+        - /url: https://seologen.ch/seo/
+      - link "Content Marketing" [ref=e55] [cursor=pointer]:
+        - /url: https://seologen.ch/seo/content-marketing/
+      - link "Local SEO" [ref=e56] [cursor=pointer]:
+        - /url: https://seologen.ch/seo/local-seo/
+      - link "SEO Texte" [ref=e57] [cursor=pointer]:
+        - /url: https://seologen.ch/seo/seo-texte/
+      - link "Backlinks" [ref=e58] [cursor=pointer]:
+        - /url: https://seologen.ch/seo/backlinks/
+    - generic [ref=e59]:
+      - heading "SEA" [level=4] [ref=e60]
+      - link "Google Ads" [ref=e61] [cursor=pointer]:
+        - /url: https://seologen.ch/sea/
+      - link "Social Media" [ref=e62] [cursor=pointer]:
+        - /url: https://seologen.ch/social-media/
+      - link "Über uns" [ref=e63] [cursor=pointer]:
+        - /url: https://seologen.ch/ueber-uns/
+      - link "Impressum" [ref=e64] [cursor=pointer]:
+        - /url: https://seologen.ch/impressum/
+      - link "Datenschutzerklärung" [ref=e65] [cursor=pointer]:
+        - /url: https://seologen.ch/datenschutz/
+    - generic [ref=e66]:
+      - heading "Kontakt" [level=4] [ref=e67]
+      - generic [ref=e68]: seologen
+      - generic [ref=e69]: Lauriergracht 148h
+      - generic [ref=e70]: 1016 RT Amsterdam
+      - link "+31 614 33 97 88" [ref=e71] [cursor=pointer]:
+        - /url: tel:0031614339788
+      - link "info@seologen.nl" [ref=e72] [cursor=pointer]:
+        - /url: mailto:info@seologen.nl
+  - img:
+    - generic:
+      - generic "cross"
+      - generic "menu"
+      - generic "chevron-down"
+  - generic:
+    - dialog "Datenschutzeinstellungen":
+      - generic [ref=e82]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e88]:
+              - heading "Datenschutzeinstellungen" [level=3] [ref=e90]
+              - paragraph [ref=e91]:
+                - generic [ref=e92]: Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.
+                - generic [ref=e93]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+                - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+                - generic [ref=e94]:
+                  - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                  - link "Datenschutzerklärung" [ref=e95] [cursor=pointer]:
+                    - /url: https://seologen.ch/datenschutz/
+                  - text: .
+                - generic [ref=e96]:
+                  - text: Sie können Ihre Auswahl jederzeit unter
+                  - link "Einstellungen" [ref=e97] [cursor=pointer]:
+                    - /url: "#"
+                  - text: widerrufen oder anpassen.
+            - group "Datenschutzeinstellungen" [ref=e98]:
+              - generic [ref=e99]: Datenschutzeinstellungen
+              - list [ref=e100]:
+                - listitem [ref=e101]:
+                  - generic [ref=e102] [cursor=pointer]:
+                    - text: Essenziell
+                    - checkbox "Essenziell" [checked] [disabled] [ref=e103]
+                - listitem [ref=e105]:
+                  - generic [ref=e106] [cursor=pointer]:
+                    - text: Statistiken
+                    - checkbox "Statistiken" [ref=e107]
+                - listitem [ref=e109]:
+                  - generic [ref=e110] [cursor=pointer]:
+                    - text: Externe Medien
+                    - checkbox "Externe Medien" [ref=e111]
+          - generic [ref=e113]:
+            - paragraph [ref=e114]:
+              - button "Alle akzeptieren" [ref=e115] [cursor=pointer]
+            - paragraph [ref=e116]:
+              - button "Speichern" [active] [ref=e117] [cursor=pointer]
+            - paragraph [ref=e118]:
+              - button "Ablehnen" [ref=e119] [cursor=pointer]
+            - paragraph [ref=e120]:
+              - button "Individuelle Datenschutzeinstellungen" [ref=e121] [cursor=pointer]
+            - paragraph [ref=e122]:
+              - button "Cookie-Details" [ref=e123] [cursor=pointer]
+              - generic [ref=e124]: "|"
+              - link "Datenschutzerklärung" [ref=e125] [cursor=pointer]:
+                - /url: https://seologen.ch/datenschutz/
+              - generic [ref=e126]: "|"
+              - link "Impressum" [ref=e127] [cursor=pointer]:
+                - /url: https://seologen.ch/impressum/
+        - generic [ref=e129]:
+          - generic [ref=e131]:
+            - heading [level=3] [ref=e133]: Datenschutzeinstellungen
+            - paragraph [ref=e134]:
+              - generic [ref=e135]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+              - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+              - generic [ref=e136]:
+                - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                - link [ref=e137] [cursor=pointer]:
+                  - /url: https://seologen.ch/datenschutz/
+                  - text: Datenschutzerklärung
+                - text: .
+              - generic [ref=e138]:
+                - text: Sie können Ihre Auswahl jederzeit unter
+                - link [ref=e139] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Einstellungen
+                - text: widerrufen oder anpassen.
+              - generic [ref=e140]: Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.
+            - generic [ref=e141]:
+              - paragraph [ref=e143]:
+                - button [ref=e144] [cursor=pointer]: Alle akzeptieren
+                - button [ref=e145] [cursor=pointer]: Speichern
+                - button [ref=e146] [cursor=pointer]: Nur essenzielle Cookies akzeptieren
+              - paragraph [ref=e148]:
+                - button [ref=e149] [cursor=pointer]: Zurück
+          - group [ref=e151]:
+            - generic [ref=e152]: Datenschutzeinstellungen
+            - generic [ref=e153]:
+              - heading [level=4] [ref=e156]: Essenziell (1)
+              - generic [ref=e158]:
+                - paragraph [ref=e159]: Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.
+                - paragraph [ref=e160]:
+                  - button [ref=e161] [cursor=pointer]: Cookie-Informationen anzeigen
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - heading [level=4] [ref=e165]: Statistiken (1)
+                - generic [ref=e167]:
+                  - generic [ref=e168]: Statistiken
+                  - generic [ref=e170]: Aus
+              - generic [ref=e171]:
+                - paragraph [ref=e172]: Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
+                - paragraph [ref=e173]:
+                  - button [ref=e174] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus
+            - generic [ref=e175]:
+              - generic [ref=e176]:
+                - heading [level=4] [ref=e178]: Externe Medien (7)
+                - generic [ref=e180]:
+                  - generic [ref=e181]: Externe Medien
+                  - generic [ref=e183]: Aus
+              - generic [ref=e184]:
+                - paragraph [ref=e185]: Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.
+                - paragraph [ref=e186]:
+                  - button [ref=e187] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus Aus Aus Aus Aus Aus Aus
+          - generic [ref=e188]:
+            - paragraph [ref=e189]:
+              - link [ref=e190] [cursor=pointer]:
+                - /url: https://de.borlabs.io/borlabs-cookie/
+                - img [ref=e191]
+                - text: powered by Borlabs Cookie
+            - paragraph [ref=e192]:
+              - link [ref=e193] [cursor=pointer]:
+                - /url: https://seologen.ch/datenschutz/
+                - text: Datenschutzerklärung
+              - generic [ref=e194]: "|"
+              - link [ref=e195] [cursor=pointer]:
+                - /url: https://seologen.ch/impressum/
+                - text: Impressum

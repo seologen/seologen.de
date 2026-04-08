@@ -1,0 +1,381 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e7]:
+        - navigation [ref=e8]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "SEO" [ref=e12] [cursor=pointer]:
+                - /url: /seo-beratung/
+            - listitem [ref=e13]:
+              - link "KI SEO" [ref=e14] [cursor=pointer]:
+                - /url: /ki-seo/
+            - listitem [ref=e15]:
+              - link "SEA" [ref=e16] [cursor=pointer]:
+                - /url: /sea/
+            - listitem [ref=e17]:
+              - link "Über uns" [ref=e18] [cursor=pointer]:
+                - /url: /ueber-uns/
+        - link "Kontakt" [ref=e19] [cursor=pointer]:
+          - /url: /kontakt/
+    - generic [ref=e21]:
+      - link [ref=e23] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e24]:
+        - link "Kontakt" [ref=e25] [cursor=pointer]:
+          - /url: /kontakt/
+        - generic [ref=e26]:
+          - img [ref=e28]
+          - generic [ref=e30]:
+            - list [ref=e32]:
+              - listitem [ref=e33]:
+                - generic [ref=e34]:
+                  - text: SEO
+                  - img [ref=e36]
+                  - img [ref=e39]
+                - list [ref=e41]:
+                  - listitem [ref=e42]:
+                    - link "SEO" [ref=e43] [cursor=pointer]:
+                      - /url: /seo-beratung/
+                      - text: SEO
+                  - listitem [ref=e44]:
+                    - link "Content Marketing" [ref=e45] [cursor=pointer]:
+                      - /url: /seo-beratung/content-marketing/
+                      - text: Content Marketing
+                  - listitem [ref=e46]:
+                    - link "Local SEO" [ref=e47] [cursor=pointer]:
+                      - /url: /seo-beratung/local-seo/
+                      - text: Local SEO
+                  - listitem [ref=e48]:
+                    - link "SEO Texte" [ref=e49] [cursor=pointer]:
+                      - /url: /seo-beratung/seo-texte/
+                      - text: SEO Texte
+                  - listitem [ref=e50]:
+                    - link "Backlinks" [ref=e51] [cursor=pointer]:
+                      - /url: /seo-beratung/backlinks/
+                      - text: Backlinks
+              - listitem [ref=e52]:
+                - link "SEA" [ref=e53] [cursor=pointer]:
+                  - /url: /sea/
+                  - text: SEA
+              - listitem [ref=e54]:
+                - link "Social Media" [ref=e55] [cursor=pointer]:
+                  - /url: /social-media/
+                  - text: Social Media
+              - listitem [ref=e56]:
+                - link "Über uns" [ref=e57] [cursor=pointer]:
+                  - /url: /ueber-uns/
+                  - text: Über uns
+            - img [ref=e59]
+  - generic [ref=e62]:
+    - heading "404" [level=1] [ref=e63]
+    - heading "Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen. Wir bringen dich wieder auf die richtige Spur." [level=4] [ref=e64]:
+      - text: Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen.
+      - text: Wir bringen dich wieder auf die richtige Spur.
+    - button "Zur Startseite" [ref=e65] [cursor=pointer]:
+      - generic [ref=e66]: Zur Startseite
+      - img [ref=e68]
+  - generic [ref=e71]:
+    - heading "Sicher mit uns durch den SEO Dschungel." [level=3] [ref=e72]
+    - heading "Jetzt Dschungeltour starten!" [level=3] [ref=e73]
+    - generic [ref=e74]:
+      - link "info@seologen.de" [ref=e76] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+      - generic [ref=e77]: "|"
+      - paragraph [ref=e79]:
+        - link "+49 (0) 151 640 90 585" [ref=e80] [cursor=pointer]:
+          - /url: tel:+4915164090585
+    - img [ref=e83]
+  - button "Kontakt aufnehmen" [ref=e87] [cursor=pointer]:
+    - generic [ref=e88]: Kontakt aufnehmen
+    - img [ref=e90]
+  - generic [ref=e94]:
+    - link [ref=e96] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e97]:
+      - heading "SEO Leistungen" [level=4] [ref=e98]
+      - link "Suchmaschinenoptimierung" [ref=e99] [cursor=pointer]:
+        - /url: /seo-beratung/
+      - link "Suchmaschinen-optimierung" [ref=e100] [cursor=pointer]:
+        - /url: "#"
+      - link "Content Marketing" [ref=e101] [cursor=pointer]:
+        - /url: /seo-beratung/content-marketing/
+      - link "Local SEO" [ref=e102] [cursor=pointer]:
+        - /url: /seo-beratung/local-seo/
+      - link "SEO Texte" [ref=e103] [cursor=pointer]:
+        - /url: /seo-beratung/seo-texte/
+      - link "Backlinks" [ref=e104] [cursor=pointer]:
+        - /url: /seo-beratung/backlinks/
+    - generic [ref=e105]:
+      - heading "SEA" [level=4] [ref=e106]
+      - link "Google Ads" [ref=e107] [cursor=pointer]:
+        - /url: /sea/
+      - link "Social Media" [ref=e108] [cursor=pointer]:
+        - /url: /social-media/
+      - link "Über uns" [ref=e109] [cursor=pointer]:
+        - /url: /ueber-uns/
+      - link "Impressum" [ref=e110] [cursor=pointer]:
+        - /url: /impressum/
+      - link "Datenschutzerklärung" [ref=e111] [cursor=pointer]:
+        - /url: /datenschutz/
+    - generic [ref=e112]:
+      - heading "Kontakt" [level=4] [ref=e113]
+      - generic [ref=e114]: seologen
+      - generic [ref=e115]: Dahlmannstrasse 13
+      - generic [ref=e116]: 90491 Nürnberg
+      - link "+49 (0) 151 640 90 585" [ref=e117] [cursor=pointer]:
+        - /url: tel:+4915164090585
+      - link "info@seologen.de" [ref=e118] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+  - img:
+    - generic:
+      - generic "Seite wurde nicht gefunden. - Seologen"
+      - generic "Seite wurde nicht gefunden. - Seologen"
+      - generic "Seite wurde nicht gefunden. - Seologen"
+  - generic:
+    - dialog "Datenschutzeinstellungen":
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - generic [ref=e132]:
+              - heading "Datenschutzeinstellungen" [level=3] [ref=e134]
+              - paragraph [ref=e135]:
+                - generic [ref=e136]: Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.
+                - generic [ref=e137]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+                - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+                - generic [ref=e138]:
+                  - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                  - link "Datenschutzerklärung" [ref=e139] [cursor=pointer]:
+                    - /url: /datenschutz/
+                  - text: .
+                - generic [ref=e140]:
+                  - text: Sie können Ihre Auswahl jederzeit unter
+                  - link "Einstellungen" [ref=e141] [cursor=pointer]:
+                    - /url: "#"
+                  - text: widerrufen oder anpassen.
+            - group "Datenschutzeinstellungen" [ref=e142]:
+              - generic [ref=e143]: Datenschutzeinstellungen
+              - list [ref=e144]:
+                - listitem [ref=e145]:
+                  - generic [ref=e146] [cursor=pointer]:
+                    - text: Essenziell
+                    - checkbox "Essenziell" [checked] [disabled] [ref=e147]
+                - listitem [ref=e149]:
+                  - generic [ref=e150] [cursor=pointer]:
+                    - text: Statistiken
+                    - checkbox "Statistiken" [ref=e151]
+                - listitem [ref=e153]:
+                  - generic [ref=e154] [cursor=pointer]:
+                    - text: Externe Medien
+                    - checkbox "Externe Medien" [ref=e155]
+          - generic [ref=e157]:
+            - paragraph [ref=e158]:
+              - button "Alle akzeptieren" [ref=e159] [cursor=pointer]
+            - paragraph [ref=e160]:
+              - button "Speichern" [active] [ref=e161] [cursor=pointer]
+            - paragraph [ref=e162]:
+              - button "Ablehnen" [ref=e163] [cursor=pointer]
+            - paragraph [ref=e164]:
+              - button "Individuelle Datenschutzeinstellungen" [ref=e165] [cursor=pointer]
+            - paragraph [ref=e166]:
+              - button "Cookie-Details" [ref=e167] [cursor=pointer]
+              - generic [ref=e168]: "|"
+              - link "Datenschutzerklärung" [ref=e169] [cursor=pointer]:
+                - /url: /datenschutz/
+              - generic [ref=e170]: "|"
+              - link "Impressum" [ref=e171] [cursor=pointer]:
+                - /url: /impressum/
+        - generic [ref=e173]:
+          - generic [ref=e175]:
+            - heading [level=3] [ref=e177]: Datenschutzeinstellungen
+            - paragraph [ref=e178]:
+              - generic [ref=e179]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+              - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+              - generic [ref=e180]:
+                - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: /datenschutz/
+                  - text: Datenschutzerklärung
+                - text: .
+              - generic [ref=e182]:
+                - text: Sie können Ihre Auswahl jederzeit unter
+                - link [ref=e183] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Einstellungen
+                - text: widerrufen oder anpassen.
+              - generic [ref=e184]: Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.
+            - generic [ref=e185]:
+              - paragraph [ref=e187]:
+                - button [ref=e188] [cursor=pointer]: Alle akzeptieren
+                - button [ref=e189] [cursor=pointer]: Speichern
+                - button [ref=e190] [cursor=pointer]: Nur essenzielle Cookies akzeptieren
+              - paragraph [ref=e192]:
+                - button [ref=e193] [cursor=pointer]: Zurück
+          - group [ref=e195]:
+            - generic [ref=e196]: Datenschutzeinstellungen
+            - generic [ref=e197]:
+              - heading [level=4] [ref=e200]: Essenziell (1)
+              - generic [ref=e202]:
+                - paragraph [ref=e203]: Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.
+                - paragraph [ref=e204]:
+                  - button [ref=e205] [cursor=pointer]: Cookie-Informationen anzeigen
+            - generic [ref=e206]:
+              - generic [ref=e207]:
+                - heading [level=4] [ref=e209]: Statistiken (1)
+                - generic [ref=e211]:
+                  - generic [ref=e212]: Statistiken
+                  - generic [ref=e214]: Aus
+              - generic [ref=e215]:
+                - paragraph [ref=e216]: Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
+                - paragraph [ref=e217]:
+                  - button [ref=e218] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - heading [level=4] [ref=e222]: Externe Medien (7)
+                - generic [ref=e224]:
+                  - generic [ref=e225]: Externe Medien
+                  - generic [ref=e227]: Aus
+              - generic [ref=e228]:
+                - paragraph [ref=e229]: Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.
+                - paragraph [ref=e230]:
+                  - button [ref=e231] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus Aus Aus Aus Aus Aus Aus
+          - generic [ref=e232]:
+            - paragraph [ref=e233]:
+              - link [ref=e234] [cursor=pointer]:
+                - /url: https://de.borlabs.io/borlabs-cookie/
+                - img [ref=e235]
+                - text: powered by Borlabs Cookie
+            - paragraph [ref=e236]:
+              - link [ref=e237] [cursor=pointer]:
+                - /url: /datenschutz/
+                - text: Datenschutzerklärung
+              - generic [ref=e238]: "|"
+              - link [ref=e239] [cursor=pointer]:
+                - /url: /impressum/
+                - text: Impressum
+    - dialog "Datenschutzeinstellungen":
+      - generic [ref=e242]:
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - generic [ref=e248]:
+              - heading "Datenschutzeinstellungen" [level=3] [ref=e250]
+              - paragraph [ref=e251]:
+                - generic [ref=e252]: Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.
+                - generic [ref=e253]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+                - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+                - generic [ref=e254]:
+                  - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                  - link "Datenschutzerklärung" [ref=e255] [cursor=pointer]:
+                    - /url: /datenschutz/
+                  - text: .
+                - generic [ref=e256]:
+                  - text: Sie können Ihre Auswahl jederzeit unter
+                  - link "Einstellungen" [ref=e257] [cursor=pointer]:
+                    - /url: "#"
+                  - text: widerrufen oder anpassen.
+            - group "Datenschutzeinstellungen" [ref=e258]:
+              - generic [ref=e259]: Datenschutzeinstellungen
+              - list [ref=e260]:
+                - listitem [ref=e261]:
+                  - generic [ref=e262] [cursor=pointer]:
+                    - text: Essenziell
+                    - checkbox "Essenziell" [checked] [disabled] [ref=e263]
+                - listitem [ref=e265]:
+                  - generic [ref=e266] [cursor=pointer]:
+                    - text: Statistiken
+                    - checkbox "Statistiken" [ref=e267]
+                - listitem [ref=e269]:
+                  - generic [ref=e270] [cursor=pointer]:
+                    - text: Externe Medien
+                    - checkbox "Externe Medien" [ref=e271]
+          - generic [ref=e273]:
+            - paragraph [ref=e274]:
+              - button "Alle akzeptieren" [ref=e275] [cursor=pointer]
+            - paragraph [ref=e276]:
+              - button "Speichern" [ref=e277] [cursor=pointer]
+            - paragraph [ref=e278]:
+              - button "Ablehnen" [ref=e279] [cursor=pointer]
+            - paragraph [ref=e280]:
+              - button "Individuelle Datenschutzeinstellungen" [ref=e281] [cursor=pointer]
+            - paragraph [ref=e282]:
+              - button "Cookie-Details" [ref=e283] [cursor=pointer]
+              - generic [ref=e284]: "|"
+              - link "Datenschutzerklärung" [ref=e285] [cursor=pointer]:
+                - /url: /datenschutz/
+              - generic [ref=e286]: "|"
+              - link "Impressum" [ref=e287] [cursor=pointer]:
+                - /url: /impressum/
+        - generic [ref=e289]:
+          - generic [ref=e291]:
+            - heading [level=3] [ref=e293]: Datenschutzeinstellungen
+            - paragraph [ref=e294]:
+              - generic [ref=e295]: Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.
+              - text: Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.
+              - generic [ref=e296]:
+                - text: Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer
+                - link [ref=e297] [cursor=pointer]:
+                  - /url: /datenschutz/
+                  - text: Datenschutzerklärung
+                - text: .
+              - generic [ref=e298]:
+                - text: Sie können Ihre Auswahl jederzeit unter
+                - link [ref=e299] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Einstellungen
+                - text: widerrufen oder anpassen.
+              - generic [ref=e300]: Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.
+            - generic [ref=e301]:
+              - paragraph [ref=e303]:
+                - button [ref=e304] [cursor=pointer]: Alle akzeptieren
+                - button [ref=e305] [cursor=pointer]: Speichern
+                - button [ref=e306] [cursor=pointer]: Nur essenzielle Cookies akzeptieren
+              - paragraph [ref=e308]:
+                - button [ref=e309] [cursor=pointer]: Zurück
+          - group [ref=e311]:
+            - generic [ref=e312]: Datenschutzeinstellungen
+            - generic [ref=e313]:
+              - heading [level=4] [ref=e316]: Essenziell (1)
+              - generic [ref=e318]:
+                - paragraph [ref=e319]: Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.
+                - paragraph [ref=e320]:
+                  - button [ref=e321] [cursor=pointer]: Cookie-Informationen anzeigen
+            - generic [ref=e322]:
+              - generic [ref=e323]:
+                - heading [level=4] [ref=e325]: Statistiken (1)
+                - generic [ref=e327]:
+                  - generic [ref=e328]: Statistiken
+                  - generic [ref=e330]: Aus
+              - generic [ref=e331]:
+                - paragraph [ref=e332]: Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
+                - paragraph [ref=e333]:
+                  - button [ref=e334] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus
+            - generic [ref=e335]:
+              - generic [ref=e336]:
+                - heading [level=4] [ref=e338]: Externe Medien (7)
+                - generic [ref=e340]:
+                  - generic [ref=e341]: Externe Medien
+                  - generic [ref=e343]: Aus
+              - generic [ref=e344]:
+                - paragraph [ref=e345]: Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.
+                - paragraph [ref=e346]:
+                  - button [ref=e347] [cursor=pointer]: Cookie-Informationen anzeigen
+              - text: Aus Aus Aus Aus Aus Aus Aus
+          - generic [ref=e348]:
+            - paragraph [ref=e349]:
+              - link [ref=e350] [cursor=pointer]:
+                - /url: https://de.borlabs.io/borlabs-cookie/
+                - img [ref=e351]
+                - text: powered by Borlabs Cookie
+            - paragraph [ref=e352]:
+              - link [ref=e353] [cursor=pointer]:
+                - /url: /datenschutz/
+                - text: Datenschutzerklärung
+              - generic [ref=e354]: "|"
+              - link [ref=e355] [cursor=pointer]:
+                - /url: /impressum/
+                - text: Impressum

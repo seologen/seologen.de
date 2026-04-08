@@ -1,0 +1,143 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link:
+          - /url: ./
+      - generic [ref=e6]:
+        - navigation [ref=e7]:
+          - list [ref=e9]:
+            - listitem [ref=e10] [cursor=pointer]:
+              - text: SEO
+              - list [ref=e11]:
+                - listitem [ref=e12]:
+                  - link "SEO" [ref=e13]:
+                    - /url: ../seo-beratung/
+                - listitem [ref=e14]:
+                  - link "Content Marketing" [ref=e15]:
+                    - /url: ../seo-beratung/content-marketing/
+                - listitem [ref=e16]:
+                  - link "Local SEO" [ref=e17]:
+                    - /url: ../seo-beratung/local-seo/
+                - listitem [ref=e18]:
+                  - link "SEO Texte" [ref=e19]:
+                    - /url: ../seo-beratung/seo-texte/
+                - listitem [ref=e20]:
+                  - link "Backlinks" [ref=e21]:
+                    - /url: ../seo-beratung/backlinks/
+            - listitem [ref=e22]:
+              - link "SEA" [ref=e23] [cursor=pointer]:
+                - /url: ./sea/
+            - listitem [ref=e24]:
+              - link "Social Media" [ref=e25] [cursor=pointer]:
+                - /url: ./social-media/
+            - listitem [ref=e26]:
+              - link "Über uns" [ref=e27] [cursor=pointer]:
+                - /url: ./ueber-uns/
+        - link "Kontakt" [ref=e28] [cursor=pointer]:
+          - /url: ./kontakt/
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - link:
+          - /url: ./
+      - generic [ref=e32]:
+        - link "Kontakt" [ref=e33] [cursor=pointer]:
+          - /url: ./kontakt/
+        - generic [ref=e34]:
+          - img [ref=e36]
+          - generic [ref=e38]:
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - text: SEO
+                - list [ref=e42]:
+                  - listitem [ref=e43]:
+                    - link "SEO" [ref=e44] [cursor=pointer]:
+                      - /url: ../seo-beratung/
+                  - listitem [ref=e45]:
+                    - link "Content Marketing" [ref=e46] [cursor=pointer]:
+                      - /url: ../seo-beratung/content-marketing/
+                  - listitem [ref=e47]:
+                    - link "Local SEO" [ref=e48] [cursor=pointer]:
+                      - /url: ../seo-beratung/local-seo/
+                  - listitem [ref=e49]:
+                    - link "SEO Texte" [ref=e50] [cursor=pointer]:
+                      - /url: ../seo-beratung/seo-texte/
+                  - listitem [ref=e51]:
+                    - link "Backlinks" [ref=e52] [cursor=pointer]:
+                      - /url: ../seo-beratung/backlinks/
+              - listitem [ref=e53]:
+                - link "SEA" [ref=e54] [cursor=pointer]:
+                  - /url: ./sea/
+              - listitem [ref=e55]:
+                - link "Social Media" [ref=e56] [cursor=pointer]:
+                  - /url: ./social-media/
+              - listitem [ref=e57]:
+                - link "Über uns" [ref=e58] [cursor=pointer]:
+                  - /url: ./ueber-uns/
+            - img [ref=e60]
+  - generic [ref=e63]:
+    - heading "404" [level=1] [ref=e64]
+    - heading "Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen. Wir bringen dich wieder auf die richtige Spur." [level=4] [ref=e65]:
+      - text: Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen.
+      - text: Wir bringen dich wieder auf die richtige Spur.
+    - button "Zur Startseite" [ref=e66] [cursor=pointer]:
+      - generic [ref=e67]: Zur Startseite
+      - img [ref=e69]
+  - generic [ref=e72]:
+    - heading "Sicher mit uns durch den SEO Dschungel." [level=3] [ref=e73]
+    - heading "Jetzt Dschungeltour starten!" [level=3] [ref=e74]
+    - generic [ref=e75]:
+      - link "info@seologen.de" [ref=e77] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+      - generic [ref=e78]: "|"
+      - paragraph [ref=e80]:
+        - link "+49 (0) 151 640 90 585" [ref=e81] [cursor=pointer]:
+          - /url: tel:+4915164090585
+    - img [ref=e84]
+  - button "Kontakt aufnehmen" [ref=e88] [cursor=pointer]:
+    - generic [ref=e89]: Kontakt aufnehmen
+    - img [ref=e91]
+  - generic [ref=e95]:
+    - generic [ref=e96]:
+      - link:
+        - /url: ./
+    - generic [ref=e97]:
+      - heading "SEO Leistungen" [level=4] [ref=e98]
+      - link "Suchmaschinenoptimierung" [ref=e99] [cursor=pointer]:
+        - /url: ../seo-beratung/
+      - link "Suchmaschinen-optimierung" [ref=e100] [cursor=pointer]:
+        - /url: "#"
+      - link "Content Marketing" [ref=e101] [cursor=pointer]:
+        - /url: ../seo-beratung/content-marketing/
+      - link "Local SEO" [ref=e102] [cursor=pointer]:
+        - /url: ../seo-beratung/local-seo/
+      - link "SEO Texte" [ref=e103] [cursor=pointer]:
+        - /url: ../seo-beratung/seo-texte/
+      - link "Backlinks" [ref=e104] [cursor=pointer]:
+        - /url: ../seo-beratung/backlinks/
+    - generic [ref=e105]:
+      - heading "SEA" [level=4] [ref=e106]
+      - link "Google Ads" [ref=e107] [cursor=pointer]:
+        - /url: ./sea/
+      - link "Social Media" [ref=e108] [cursor=pointer]:
+        - /url: ./social-media/
+      - link "Über uns" [ref=e109] [cursor=pointer]:
+        - /url: ./ueber-uns/
+      - link "Impressum" [ref=e110] [cursor=pointer]:
+        - /url: ./impressum/
+      - link "Datenschutzerklärung" [ref=e111] [cursor=pointer]:
+        - /url: ./datenschutz/
+    - generic [ref=e112]:
+      - heading "Kontakt" [level=4] [ref=e113]
+      - generic [ref=e114]: seologen
+      - generic [ref=e115]: Dahlmannstrasse 13
+      - generic [ref=e116]: 90491 Nürnberg
+      - link "+49 (0) 151 640 90 585" [ref=e117] [cursor=pointer]:
+        - /url: tel:+4915164090585
+      - link "info@seologen.de" [ref=e118] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+  - img:
+    - generic:
+      - generic "cross"
+      - generic "menu"
+      - generic "chevron-down"

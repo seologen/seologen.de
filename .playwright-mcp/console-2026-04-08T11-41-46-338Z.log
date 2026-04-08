@@ -1,0 +1,16 @@
+[     190ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/test-404-seite/:0
+[     255ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=4.9.1:0
+[     266ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/universal.css?cache=1721210373&ver=6.9.4:0
+[     286ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/739.css?cache=1719263585&ver=6.9.4:0
+[     287ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/670.css?cache=1707822271&ver=6.9.4:0
+[     318ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/10/GooglePartnerBadge.png:0
+[     320ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.css?ver=6.9.4:0
+[     339ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/11/sistrix-seologen-1.png:0
+[     418ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1:0
+[     442ms] Unexpected token '<'
+[     505ms] ReferenceError: AOS is not defined
+    at https://seologen.de/test-404-seite/:534:5
+[     511ms] Unexpected token '<'
+[    2135ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://seologen.de/wp-admin/admin-ajax.php:0
+[    2146ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://seologen.de/wp-admin/admin-ajax.php:0
+[   53718ms] [WARNING] The resource https://seologen.de/ki-seo/# was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://seologen.de/ki-seo/:0

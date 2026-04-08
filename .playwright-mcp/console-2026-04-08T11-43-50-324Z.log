@@ -1,0 +1,32 @@
+[     177ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/test-404-fix/:0
+[     317ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=4.9.1:0
+[     359ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/739.css?cache=1719263585&ver=6.9.4:0
+[     363ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/10/GooglePartnerBadge.png:0
+[     410ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.css?ver=6.9.4:0
+[     410ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/universal.css?cache=1721210373&ver=6.9.4:0
+[     410ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/670.css?cache=1707822271&ver=6.9.4:0
+[     414ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/11/sistrix-seologen-1.png:0
+[     416ms] Unexpected token '<'
+[     552ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1:0
+[     554ms] ReferenceError: AOS is not defined
+    at https://seologen.de/test-404-fix/:534:5
+[     576ms] Unexpected token '<'
+[    8479ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/test-404-fix/:0
+[    8516ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=4.9.1:0
+[    8557ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/739.css?cache=1719263585&ver=6.9.4:0
+[    8557ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/universal.css?cache=1721210373&ver=6.9.4:0
+[    8557ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/oxygen/css/670.css?cache=1707822271&ver=6.9.4:0
+[    8558ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/11/sistrix-seologen-1.png:0
+[    8583ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.css?ver=6.9.4:0
+[    8583ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/10/GooglePartnerBadge.png:0
+[    8592ms] Unexpected token '<'
+[    8598ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1:0
+[    8599ms] ReferenceError: AOS is not defined
+    at https://seologen.de/test-404-fix/:534:5
+[    8632ms] Unexpected token '<'
+[   47743ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/test-404-fix/:0
+[   47875ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/10/GooglePartnerBadge.png:0
+[   47912ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/wp-content/uploads/2021/11/sistrix-seologen-1.png:0
+[   47920ms] Unexpected token '<'
+[   48097ms] Unexpected token '<'
+[  205833ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://seologen.de/test-404-fix/:0

@@ -1,0 +1,139 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e7]:
+        - navigation [ref=e8]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "SEO" [ref=e12] [cursor=pointer]:
+                - /url: /seo-beratung/
+            - listitem [ref=e13]:
+              - link "KI SEO" [ref=e14] [cursor=pointer]:
+                - /url: /ki-seo/
+            - listitem [ref=e15]:
+              - link "SEA" [ref=e16] [cursor=pointer]:
+                - /url: /sea/
+            - listitem [ref=e17]:
+              - link "Über uns" [ref=e18] [cursor=pointer]:
+                - /url: /ueber-uns/
+        - link "Kontakt" [ref=e19] [cursor=pointer]:
+          - /url: /kontakt/
+    - generic [ref=e21]:
+      - link [ref=e23] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e24]:
+        - link "Kontakt" [ref=e25] [cursor=pointer]:
+          - /url: /kontakt/
+        - generic [ref=e26]:
+          - img [ref=e28]
+          - generic [ref=e30]:
+            - list [ref=e32]:
+              - listitem [ref=e33]:
+                - generic [ref=e34]:
+                  - text: SEO
+                  - img [ref=e36]
+                  - img [ref=e39]
+                - list [ref=e41]:
+                  - listitem [ref=e42]:
+                    - link "SEO" [ref=e43] [cursor=pointer]:
+                      - /url: /seo-beratung/
+                      - text: SEO
+                  - listitem [ref=e44]:
+                    - link "Content Marketing" [ref=e45] [cursor=pointer]:
+                      - /url: /seo-beratung/content-marketing/
+                      - text: Content Marketing
+                  - listitem [ref=e46]:
+                    - link "Local SEO" [ref=e47] [cursor=pointer]:
+                      - /url: /seo-beratung/local-seo/
+                      - text: Local SEO
+                  - listitem [ref=e48]:
+                    - link "SEO Texte" [ref=e49] [cursor=pointer]:
+                      - /url: /seo-beratung/seo-texte/
+                      - text: SEO Texte
+                  - listitem [ref=e50]:
+                    - link "Backlinks" [ref=e51] [cursor=pointer]:
+                      - /url: /seo-beratung/backlinks/
+                      - text: Backlinks
+              - listitem [ref=e52]:
+                - link "SEA" [ref=e53] [cursor=pointer]:
+                  - /url: /sea/
+                  - text: SEA
+              - listitem [ref=e54]:
+                - link "Social Media" [ref=e55] [cursor=pointer]:
+                  - /url: /social-media/
+                  - text: Social Media
+              - listitem [ref=e56]:
+                - link "Über uns" [ref=e57] [cursor=pointer]:
+                  - /url: /ueber-uns/
+                  - text: Über uns
+            - img [ref=e59]
+  - generic [ref=e62]:
+    - heading "404" [level=1] [ref=e63]
+    - heading "Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen. Wir bringen dich wieder auf die richtige Spur." [level=4] [ref=e64]:
+      - text: Oops, sieht so aus als hättest du dich im SEO Dschungel verlaufen.
+      - text: Wir bringen dich wieder auf die richtige Spur.
+    - button "Zur Startseite" [ref=e65] [cursor=pointer]:
+      - generic [ref=e66]: Zur Startseite
+      - img [ref=e68]
+  - generic [ref=e71]:
+    - heading "Sicher mit uns durch den SEO Dschungel." [level=3] [ref=e72]
+    - heading "Jetzt Dschungeltour starten!" [level=3] [ref=e73]
+    - generic [ref=e74]:
+      - link "info@seologen.de" [ref=e76] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+      - generic [ref=e77]: "|"
+      - paragraph [ref=e79]:
+        - link "+49 (0) 151 640 90 585" [ref=e80] [cursor=pointer]:
+          - /url: tel:+4915164090585
+    - img [ref=e83]
+  - button "Kontakt aufnehmen" [ref=e87] [cursor=pointer]:
+    - generic [ref=e88]: Kontakt aufnehmen
+    - img [ref=e90]
+  - generic [ref=e94]:
+    - link [ref=e96] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e97]:
+      - heading "SEO Leistungen" [level=4] [ref=e98]
+      - link "Suchmaschinenoptimierung" [ref=e99] [cursor=pointer]:
+        - /url: /seo-beratung/
+      - link "Suchmaschinen-optimierung" [ref=e100] [cursor=pointer]:
+        - /url: "#"
+      - link "Content Marketing" [ref=e101] [cursor=pointer]:
+        - /url: /seo-beratung/content-marketing/
+      - link "Local SEO" [ref=e102] [cursor=pointer]:
+        - /url: /seo-beratung/local-seo/
+      - link "SEO Texte" [ref=e103] [cursor=pointer]:
+        - /url: /seo-beratung/seo-texte/
+      - link "Backlinks" [ref=e104] [cursor=pointer]:
+        - /url: /seo-beratung/backlinks/
+    - generic [ref=e105]:
+      - heading "SEA" [level=4] [ref=e106]
+      - link "Google Ads" [ref=e107] [cursor=pointer]:
+        - /url: /sea/
+      - link "Social Media" [ref=e108] [cursor=pointer]:
+        - /url: /social-media/
+      - link "Über uns" [ref=e109] [cursor=pointer]:
+        - /url: /ueber-uns/
+      - link "Impressum" [ref=e110] [cursor=pointer]:
+        - /url: /impressum/
+      - link "Datenschutzerklärung" [ref=e111] [cursor=pointer]:
+        - /url: /datenschutz/
+    - generic [ref=e112]:
+      - heading "Kontakt" [level=4] [ref=e113]
+      - generic [ref=e114]: seologen
+      - generic [ref=e115]: Dahlmannstrasse 13
+      - generic [ref=e116]: 90491 Nürnberg
+      - link "+49 (0) 151 640 90 585" [ref=e117] [cursor=pointer]:
+        - /url: tel:+4915164090585
+      - link "info@seologen.de" [ref=e118] [cursor=pointer]:
+        - /url: mailto:info@seologen.de
+  - img:
+    - generic:
+      - generic "Seite wurde nicht gefunden. - Seologen"
+      - generic "Seite wurde nicht gefunden. - Seologen"
+      - generic "Seite wurde nicht gefunden. - Seologen"
+  - generic:
+    - dialog "Datenschutzeinstellungen": "| | An An An An An An An An An An |"
+    - dialog "Datenschutzeinstellungen": "| | An An An An An An An An An An |"
